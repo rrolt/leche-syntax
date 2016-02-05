@@ -1,7 +1,7 @@
 {
   "name": "leche-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "1",
   "description": "A dark syntax theme inspired by the Stripe api color scheme.",
   "keywords": [
     "syntax",
