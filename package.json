@@ -1,13 +1,15 @@
 {
-  "name": "leche-theme-syntax",
+  "name": "leche-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "A dark syntax theme inspired by the Stripe api color scheme.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark",
+    "pastel"
   ],
-  "repository": "https://github.com/atom/test-theme-syntax",
+  "repository": "https://github.com/rrolt/leche-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
