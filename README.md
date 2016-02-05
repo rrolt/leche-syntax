@@ -3,6 +3,6 @@
 A dark syntax theme inspired by the Stripe api color scheme.
 
 
-![ruby-screenshot](/img/screenshot.png)
+![ruby-screenshot](https://github.com/rrolt/leche-syntax/raw/master/img/screenshot.png)
 
-![js-screenshot](/img/screenshot2.png)
+![js-screenshot](https://github.com/rrolt/leche-syntax/raw/master/img/screenshot2.png)
