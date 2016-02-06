@@ -1,7 +1,7 @@
 {
   "name": "leche-syntax",
   "theme": "syntax",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A soft-colored dark syntax theme.",
   "keywords": [
     "syntax",
